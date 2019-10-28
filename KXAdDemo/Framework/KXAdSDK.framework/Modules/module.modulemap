@@ -1,0 +1,6 @@
+framework module KXAdSDK {
+  umbrella header "KXAdSDK.h"
+
+  export *
+  module * { export * }
+}
